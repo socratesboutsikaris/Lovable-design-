@@ -1,0 +1,884 @@
+/* home-page.css */
+/* Figma export — Home page UI */
+
+/* Home page UI */
+
+position: absolute;
+width: 447px;
+height: 851px;
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 390px;
+height: 850px;
+
+background: #F9F8F5;
+border-radius: 8px;
+
+/* Veter */
+
+position: absolute;
+width: 93px;
+height: 39px;
+
+font-family: 'Source Serif Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 40px;
+
+color: #46917A;
+
+/* Avatar
+
+Initials should be single e.g. A, B, or C, and not multiple e.g. AA, BB, or CC.
+
+This is because the widths of the avatars would force the text to overflow outside.
+*/
+
+position: absolute;
+width: 49px;
+height: 47px;
+
+border-radius: 9999px;
+
+/* Shape */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: calc(50% - 40px/2 + 0.5px);
+top: calc(50% - 40px/2 + 0.5px);
+
+background: url(image.png);
+
+/* Hello, Dr. Boutsikaris */
+
+position: absolute;
+width: 186px;
+height: 20px;
+
+font-family: 'Source Serif Pro';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+
+color: #000000;
+
+/* Group 2 */
+
+position: absolute;
+width: 280px;
+height: 47px;
+
+filter: drop-shadow(3px 4px 4px rgba(0, 0, 0, 0.25));
+
+/* Rectangle 3 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 280px;
+height: 47px;
+
+background: #FFFFFF;
+border: 1px solid rgba(157, 157, 157, 0.51);
+border-radius: 15px;
+
+/* basil:search-solid */
+
+position: absolute;
+width: 20px;
+height: 20px;
+
+/* Vector */
+
+position: absolute;
+left: 14.25%;
+right: 13.17%;
+top: 14.25%;
+bottom: 13.17%;
+
+background: #757575;
+
+/* Options */
+
+position: absolute;
+width: 332px;
+height: 76px;
+
+/* Rectangle 4 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 100px;
+height: 76px;
+
+background: #46917A;
+border: 1px solid #9D9D9D;
+box-shadow: 3px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+
+/* Rectangle 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 100px;
+height: 76px;
+
+background: #FFFFFF;
+border: 1px solid rgba(157, 157, 157, 0.51);
+box-shadow: 3px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+
+/* Rectangle 6 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 100px;
+height: 76px;
+
+background: #FFFFFF;
+border: 1px solid rgba(157, 157, 157, 0.51);
+box-shadow: 3px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+
+/* Rectangle 7 */
+
+position: absolute;
+width: 390px;
+height: 67px;
+
+background: #FFFFFF;
+
+/* Bottom Navigation  */
+
+position: absolute;
+width: 344px;
+height: 37px;
+
+/* Group 3 */
+
+position: absolute;
+width: 34px;
+height: 37px;
+
+/* proicons:home */
+
+position: absolute;
+width: 24px;
+height: 24px;
+
+/* Vector */
+
+position: absolute;
+left: 14.58%;
+right: 14.58%;
+top: 15.96%;
+bottom: 13.91%;
+
+border: 1.5px solid #000000;
+
+/* Home */
+
+position: absolute;
+width: 34px;
+height: 13px;
+
+font-family: 'SF Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 14px;
+
+color: #000000;
+
+/* Group 4 */
+
+position: absolute;
+width: 35px;
+height: 36px;
+
+/* bytesize:book */
+
+position: absolute;
+width: 23px;
+height: 23px;
+
+/* Vector */
+
+position: absolute;
+left: 6.25%;
+right: 6.25%;
+top: 12.53%;
+bottom: 12.5%;
+
+border: 1.5625px solid #000000;
+
+/* Cases */
+
+position: absolute;
+width: 35px;
+height: 13px;
+
+font-family: 'SF Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 14px;
+
+color: #000000;
+
+/* Group 5 */
+
+position: absolute;
+width: 60px;
+height: 36px;
+
+/* fluent:hat-graduation-24-regular */
+
+position: absolute;
+width: 25px;
+height: 25px;
+
+/* Vector */
+
+position: absolute;
+left: 6.25%;
+right: 6.25%;
+top: 12.87%;
+bottom: 12.5%;
+
+background: #000000;
+
+/* Resources */
+
+position: absolute;
+width: 60px;
+height: 13px;
+
+font-family: 'SF Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 14px;
+
+color: #000000;
+
+/* Group 6 */
+
+position: absolute;
+width: 37px;
+height: 37px;
+
+/* iconamoon:profile-light */
+
+position: absolute;
+width: 24px;
+height: 24px;
+
+/* Group */
+
+position: absolute;
+left: 16.67%;
+right: 16.67%;
+top: 16.67%;
+bottom: 16.67%;
+
+/* Vector */
+
+position: absolute;
+left: 16.67%;
+right: 16.67%;
+top: 58.33%;
+bottom: 16.67%;
+
+border: 1.5px solid #000000;
+
+/* Vector */
+
+position: absolute;
+left: 37.5%;
+right: 37.5%;
+top: 16.67%;
+bottom: 58.33%;
+
+border: 1.5px solid #000000;
+
+/* Profile */
+
+position: absolute;
+width: 37px;
+height: 13px;
+
+font-family: 'SF Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 14px;
+
+color: #000000;
+
+/* Group 7 */
+
+position: absolute;
+width: 32px;
+height: 31px;
+
+/* Vector */
+
+position: absolute;
+width: 18px;
+height: 12px;
+
+background: #000000;
+
+/* Menu */
+
+position: absolute;
+width: 32px;
+height: 13px;
+
+font-family: 'SF Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 14px;
+
+color: #000000;
+
+/* What would you like to do today? */
+
+position: absolute;
+width: 246px;
+height: 12px;
+
+font-family: 'Source Serif Pro';
+font-style: normal;
+font-weight: 600;
+font-size: 10px;
+line-height: 13px;
+
+color: #757575;
+
+/* Rectangle 10 */
+
+position: absolute;
+width: 44px;
+height: 41px;
+
+background: #46917A;
+border-radius: 8px;
+
+/* Hero banner */
+
+position: absolute;
+width: 338px;
+height: 136px;
+
+/* Rectangle 9 */
+
+position: absolute;
+width: 338px;
+height: 136px;
+
+background: url(🐕 “Bring your fur baby for a day of cuddles and clicks!”_From playful pups to curious cats, our studio is ready to capture your pet’s personality in every shot_.jpg);
+background-blend-mode: darken;
+box-shadow: inset 342px 49px 70.5px -122px rgba(0, 0, 0, 0.56);
+border-radius: 20px;
+
+/* Find the case you like and practice your skills on the spot. */
+
+position: absolute;
+width: 121px;
+height: 41px;
+
+font-family: 'Gabarito';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+
+color: #D9D9D9;
+
+/* Select, Diagnose & Treat */
+
+position: absolute;
+width: 159px;
+height: 22px;
+
+font-family: 'Unbounded';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+
+color: #FFFFFF;
+
+/* Featured Cases */
+
+position: absolute;
+width: 146px;
+height: 17px;
+
+font-family: 'Gabarito';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+
+color: #000000;
+
+/* See All > */
+
+position: absolute;
+width: 74px;
+height: 23px;
+
+font-family: 'Public Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+
+color: #46917A;
+
+/* Featured case  */
+
+position: absolute;
+width: 262px;
+height: 242px;
+
+/* Rectangle 11 */
+
+position: absolute;
+width: 262px;
+height: 242px;
+
+background: #FFFFFF;
+box-shadow: 3px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 25px;
+
+/* Rectangle 12 */
+
+position: absolute;
+width: 250px;
+height: 146px;
+
+background: url(01bb7e69e8ed24d9846d5c9bc57977f9.jpg);
+border-radius: 17px;
+
+/* Rectangle 13 */
+
+position: absolute;
+width: 72px;
+height: 15px;
+
+background: rgba(70, 145, 122, 0.45);
+border-radius: 6px;
+
+/* Intermediate */
+
+position: absolute;
+width: 54px;
+height: 12px;
+
+font-family: 'Chau Philomene One';
+font-style: normal;
+font-weight: 400;
+font-size: 9px;
+line-height: 12px;
+
+color: #FFFFFF;
+
+/* Labrador with Lethargy and Anorexia */
+
+position: absolute;
+width: 153px;
+height: 20px;
+
+font-family: 'Gabarito';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+
+color: #000000;
+
+/* All */
+
+position: absolute;
+width: 15px;
+height: 13px;
+
+font-family: 'Gabarito';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+
+color: #FFFFFF;
+
+/* Dogs */
+
+position: absolute;
+width: 29px;
+height: 12px;
+
+font-family: 'Gabarito';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+
+color: #46917A;
+
+/* Cats */
+
+position: absolute;
+width: 29px;
+height: 12px;
+
+font-family: 'Gabarito';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+
+color: #46917A;
+
+/* cil:animal */
+
+position: absolute;
+width: 24px;
+height: 24px;
+
+/* Vector */
+
+position: absolute;
+left: 3.14%;
+right: 3.14%;
+top: 6.25%;
+bottom: 7.81%;
+
+background: #FFFFFF;
+
+/* tabler:dog */
+
+position: absolute;
+width: 24px;
+height: 24px;
+
+/* Group */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 16.67%;
+bottom: 16.67%;
+
+/* Vector */
+
+position: absolute;
+left: 20.83%;
+right: 20.83%;
+top: 20.83%;
+bottom: 16.67%;
+
+border: 2px solid #46917A;
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 16.67%;
+bottom: 16.67%;
+
+border: 2px solid #46917A;
+
+/* solar:cat-linear */
+
+position: absolute;
+width: 24px;
+height: 24px;
+
+/* Group */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 20.83%;
+bottom: 16.67%;
+
+/* Vector */
+
+position: absolute;
+left: 16.67%;
+right: 16.67%;
+top: 20.83%;
+bottom: 16.67%;
+
+border: 1.5px solid #46917A;
+
+/* Vector */
+
+position: absolute;
+left: 35.55%;
+right: 35.42%;
+top: 53.39%;
+bottom: 32.03%;
+
+border: 1.5px solid #46917A;
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 59.9%;
+bottom: 25.13%;
+
+border: 1.5px solid #46917A;
+
+/* mingcute:settings-2-line */
+
+position: absolute;
+width: 22px;
+height: 22px;
+
+/* Group */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 0.78%;
+
+/* Vector */
+
+position: absolute;
+left: 50.32%;
+right: 46.2%;
+top: 96.43%;
+bottom: 0.78%;
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+background: #FFFFFF;
+
+/* Featured case  */
+
+position: absolute;
+width: 115px;
+height: 242px;
+
+/* Rectangle 11 */
+
+position: absolute;
+width: 85px;
+height: 242px;
+
+background: #FFFFFF;
+box-shadow: 3px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 25px 0px 0px 25px;
+
+/* Rectangle 12 */
+
+position: absolute;
+width: 79px;
+height: 146px;
+
+background: url(German-shepherd-training-main.jpg);
+border-radius: 15px 0px 0px 15px;
+
+/* Rectangle 13 */
+
+position: absolute;
+width: 69.25px;
+height: 15px;
+
+background: rgba(70, 145, 122, 0.45);
+border-radius: 6px;
+
+/* Intermediate */
+
+position: absolute;
+width: 51.94px;
+height: 12px;
+
+font-family: 'Chau Philomene One';
+font-style: normal;
+font-weight: 400;
+font-size: 9px;
+line-height: 12px;
+
+color: #FFFFFF;
+
+/* German Shepherd */
+
+position: absolute;
+width: 98px;
+height: 20px;
+
+font-family: 'Gabarito';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+
+color: #000000;
+
+/* Status bar - iPhone */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 20px;
+gap: 202px;
+
+position: absolute;
+width: 409px;
+height: 40px;
+
+/* Time */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 1.5px 0px 0px;
+gap: 12px;
+
+width: 100px;
+height: 22px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Time */
+
+width: 37px;
+height: 22px;
+
+font-family: 'SF Pro';
+font-style: normal;
+font-weight: 590;
+font-size: 17px;
+line-height: 22px;
+/* identical to box height, or 129% */
+text-align: center;
+
+color: #000000;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Levels */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 1px 1px 0px 0px;
+gap: 7px;
+
+width: 67px;
+height: 22px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+/* Cellular Connection */
+
+width: 19.2px;
+height: 12.23px;
+
+background: #000000;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Wifi */
+
+width: 17.14px;
+height: 12.33px;
+
+background: #000000;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Frame */
+
+width: 27.33px;
+height: 13px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+/* Border */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 25px;
+left: calc(50% - 25px/2 - 1.16px);
+top: 0%;
+bottom: 0%;
+
+mix-blend-mode: normal;
+opacity: 0.35;
+border: 1px solid #000000;
+border-radius: 4.3px;
+
+/* Cap */
+
+position: absolute;
+width: 1.33px;
+left: calc(50% - 1.33px/2 + 13px);
+top: 34.62%;
+bottom: 34.03%;
+
+background: #000000;
+mix-blend-mode: normal;
+opacity: 0.4;
+
+/* Capacity */
+
+position: absolute;
+width: 21px;
+left: calc(50% - 21px/2 - 1.16px);
+top: 15.38%;
+bottom: 15.38%;
+
+background: #000000;
+border-radius: 2.5px;
